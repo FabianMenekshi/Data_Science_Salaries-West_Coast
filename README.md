@@ -1,2 +1,11 @@
 # Data-Science-Salaries---West-Coast
-Investigating how salaries in Data Science roles in the US West are influenced by job requirements like education and skills. Using a dataset from Indeed job listings, we aim to build an interpretable regression model to analyze salary dependencies, with a focus on assessing if a PhD guarantees a higher salary.
+In our project we set out to investigate how the salaries in Data Science related professions
+in the western region of the US are influenced by a number of variables, like education
+and skills, that candidates are required or advised to possess by job offers. To accomplish
+this task, we have carefully assembled our own dataset consisting of data from job offers
+in the data science field taken from the indeed.com platform. With the data collected,
+our objective is to train and select a simple and interpretable regression model that best
+captures the dependence of salary on the set of prerequisites suggested in a given job listing.
+Furthermore, we aim to test different hypotheses on the requirements in order to evaluate
+their effect on salaries and are particularly interested in analysing education levels, especially
+seeking an answer to the question: does a PhD guarantee a higher salary?
