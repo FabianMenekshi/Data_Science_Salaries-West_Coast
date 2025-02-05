@@ -1,4 +1,5 @@
-# Data_Science_Salaries - US_West_Coast
+# Data ScienceS Salaries - US West Coast
+
 In our project we set out to investigate how the salaries in Data Science related professions
 in the western region of the US are influenced by a number of variables, like education
 and skills, that candidates are required or advised to possess by job offers. To accomplish
