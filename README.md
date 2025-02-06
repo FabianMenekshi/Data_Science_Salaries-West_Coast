@@ -1,5 +1,6 @@
 # Data Science Salaries - US West Coast
 
+This project was done as part of the "30549 - Mathematical Statistics" course at Bocconi University.
 In our project we set out to investigate how the salaries in Data Science related professions
 in the western region of the US are influenced by a number of variables, like education
 and skills, that candidates are required or advised to possess by job offers. To accomplish
