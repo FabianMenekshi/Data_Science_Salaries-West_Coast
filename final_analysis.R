@@ -7,7 +7,7 @@ library(ggplot2)
 library(glmnet)
 pacman::p_load(pacman, ggthemes, httr, plotly, 
                rio, rmarkdown, shiny, stringr, tidyr, GGally)
-#################################### Importing the dataset ###########################################
+#################################### Importing the dataset ########################################
 
 file_path <- file.choose()
 dataset <- read_excel(file_path)
