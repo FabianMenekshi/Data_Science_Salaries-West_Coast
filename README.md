@@ -57,5 +57,23 @@ seeking an answer to the question: does a PhD guarantee a higher salary?
 3. Save processed dataset to `data/processed/`
 4. Run the R analysis scripts in `src/R/analysis/`
 
+## Installation and setup
+
+### 1. Clone the repository
+```text
+git clone https://github.com/FabianMenekshi/Data_Science_Salaries-West_Coast.git
+cd Data_Science_Salaries-West_Coast
+pip install -r requirements.txt
+```
+### 2. Install Python dependencies
+```text
+pip install -r requirements.txt
+```
+
+### 3. Run R analysis
+```text
+Rscript src/R/analysis/salary_model_analysis.R
+```
+
 ## Report
 See `docs/report/Lamonarca_Menekshi_Statistics_Project.pdf`
