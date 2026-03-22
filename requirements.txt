@@ -1,0 +1,10 @@
+pandas
+numpy
+spacy
+scikit-learn
+matplotlib
+jupyter
+openpyxl
+requests
+beautifulsoup4
+apify-client
