@@ -1,4 +1,4 @@
-# Data Science Salaries - US West Coast
+# <h1 align="center">*<ins>Data Science Salaries - US West Coast</ins>*</h1>
 
 ## Authors
 - Andrea Lamonarca (andrea.lamonarca@studbocconi.it)
