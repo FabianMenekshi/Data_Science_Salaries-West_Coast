@@ -1,0 +1,32 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# VS Code / IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Generated outputs
+results/models/*.pkl
+results/models/*.rds
+results/plots/*.png
+results/plots/*.pdf
+results/tables/*.csv
